@@ -1,0 +1,24 @@
+# Zależności i buildy (na wypadek, gdyby doszły narzędzia pomocnicze)
+node_modules/
+dist/
+build/
+.cache/
+
+# Środowisko
+.env
+.env.*
+
+# Systemowe
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Edytory
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+
+# Logi
+*.log
+npm-debug.log*
