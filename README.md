@@ -4,20 +4,19 @@
 
 `analiza → implementacja → wdrożenie → produkcja`
 
-Inżynier informatyki PW; specjalność Sztuczna Inteligencja; projekty od pomysłu
-po wdrożenie na produkcji.
+Inżynier informatyki PW; Junior ML Engineer — wdrażam modele od pomysłu po produkcję · Python, Pytorch, XGBoost, FastAPI, Docker
 
 ---
 
 ## O mnie
 
-Jestem inżynierem informatyki z specjalizacją w dziedzinie Sztucznej Inteligencji.
-Zajmuję się projektowaniem i wdrażaniem modeli ML od pomysłu po produkcję. Jestem
-wielkim fanem szeroko rozumianej motoryzacji, w swoich projektach staram się łączyć
-technologie AI z pasją do samochodów.
-
-Wszystko co robię, to łączenie wiedzy z praktyką, aby tworzyć realne, działające
-rozwiązania, nie projekty na półkę.
+Początkujący ML Engineer po studiach informatycznych, skupiony na wdrażaniu modeli uczenia
+maszynowego jako działających aplikacji — od przygotowania danych, przez trening, po deployment i
+monitoring. Samodzielnie zaprojektowałem i uruchomiłem kilka projektów end-to-end: wycenę samochodów
+(XGBoost + FastAPI), predyktor wyników F1 (symulacja Monte Carlo, dane FastF1) oraz wielousługowy system
+analizy ruchu drogowego z detekcją obiektów (YOLO, PostgreSQL, Docker). Pracuję w Pythonie z ekosystemem
+ML (scikit-learn, XGBoost, PyTorch) i buduję pełne API oraz konteneryzowane wdrożenia. Szukam pierwszej
+roli, w której zdobędę doświadczenie w budowaniu modeli produkcyjnych w zespole.
 
 ---
 
