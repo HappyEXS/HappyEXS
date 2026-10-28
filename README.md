@@ -2,20 +2,20 @@
 
 **ML Engineer** · Warszawa · otwarty na propozycje
 
-`analiza → implementacja → wdrożenie → produkcja`
+`analiza → implementacja → wdrożenie → utrzymanie`
 
-Inżynier informatyki PW; Junior ML Engineer — wdrażam modele od pomysłu po produkcję · Python, Pytorch, XGBoost, FastAPI, Docker
+Magister informatyki PW EiTI; Junior ML Engineer — wdrażam modele od pomysłu po produkcję · Python, Pytorch, XGBoost, FastAPI, Docker
 
 ---
 
 ## O mnie
 
-Początkujący ML Engineer po studiach informatycznych, skupiony na wdrażaniu modeli uczenia
+ML Engineer po studiach informatycznych, zajmuję się wdrażaniem modeli uczenia
 maszynowego jako działających aplikacji — od przygotowania danych, przez trening, po deployment i
 monitoring. Samodzielnie zaprojektowałem i uruchomiłem kilka projektów end-to-end: wycenę samochodów
 (XGBoost + FastAPI), predyktor wyników F1 (symulacja Monte Carlo, dane FastF1) oraz wielousługowy system
 analizy ruchu drogowego z detekcją obiektów (YOLO, PostgreSQL, Docker). Pracuję w Pythonie z ekosystemem
-ML (scikit-learn, XGBoost, PyTorch) i buduję pełne API oraz konteneryzowane wdrożenia. Szukam pierwszej
+ML (scikit-learn, XGBoost, PyTorch) i buduję pełne API oraz konteneryzowane wdrożenia. Szukam 
 roli, w której zdobędę doświadczenie w budowaniu modeli produkcyjnych w zespole.
 
 ---
@@ -36,7 +36,7 @@ w milisekundach.
 
 ---
 
-### Predyktor wyników F1 · wdrożony
+### Predyktor wyników F1
 
 Symulator przewidujący wyniki wyścigów Formuły 1 metodą Monte Carlo, wielokrotnie
 rozgrywający wyścig na podstawie oficjalnych danych pomiaru czasu (biblioteka
@@ -50,7 +50,7 @@ prezentuje je w interfejsie.
 
 ---
 
-### Traffic Insights · w budowie
+### Traffic Insights
 
 System analizy natężenia ruchu drogowego w czasie rzeczywistym, przetwarzający
 obraz z publicznych kamer drogowych za pomocą detekcji obiektów (YOLO) i zliczający
@@ -60,11 +60,11 @@ zbiera dane ciągle i wizualizuje wzorce ruchu w czasie.
 
 `Python` `YOLO` `PostgreSQL` `FastAPI` `Streamlit`
 
-Demo wkrótce · Kod: `{{LINK_KOD_3}}`
+Demo wkrótce · [Kod ↗](https://github.com/HappyEXS/Traffic-Insights)
 
 ---
 
-### Router tras · w budowie
+### Router tras
 
 Aplikacja wyznaczająca optymalne trasy drogowe w obrębie województwa mazowieckiego
 na kompletnej sieci dróg regionu. Wyznaczanie tras realizują procedury pgRouting
@@ -75,6 +75,17 @@ przestrzennymi, algorytmami grafowymi i przestrzenną bazą danych.
 `PostgreSQL` `PostGIS` `pgRouting` `Python` `FastAPI`
 
 Demo wkrótce · [Kod ↗](https://github.com/HappyEXS/Navigation-app)
+
+---
+
+### Gra auto-battler
+
+Przeglądarkowy auto-battler 2D z widokiem z boku, single player. Gracz układa skład do pięciu bohaterów, rozwija ich i wyposaża w runy. Gra ma 36 poziomów w 6 światach.
+Silnik symulacji w Node - wszystkow przeglądarce klienta. Grafika postaci 2D, animacje szkieletowe.
+
+`TypeScript` `Vite` `Preact` `Canvas 2D`
+
+**[Live demo ↗](https://five-fangs.onrender.com/)** · [Kod ↗](https://github.com/HappyEXS/Five-Fangs)
 
 ---
 
@@ -93,12 +104,11 @@ Demo wkrótce · [Kod ↗](https://github.com/HappyEXS/Navigation-app)
 
 ## Kontakt
 
-Szukam interesujących projektów w ML i nie tylko. Jeśli budujecie coś, co zamienia
-dane w decyzje — chętnie porozmawiam. Najszybciej złapiesz mnie mailem.
+Szukam interesujących projektów w ML i nie tylko. Jeśli budujecie coś, co zamienia dane w decyzje — chętnie porozmawiam. Najszybciej złapiesz mnie mailem. Najszybciej złapiesz mnie mailem.
 
 - 📧 **[JedrzejewskiJ4n@gmail.com](mailto:JedrzejewskiJ4n@gmail.com)**
 - 📄 [Pobierz CV (PDF)](assets/CV.pdf)
-- 🌐 Portfolio: `{{URL_STRONY}}`
+- 🌐 Portfolio: (https://happyexs.github.io/HappyEXS/)
 - 📍 Warszawa
 
-<sub>Kod tej strony-portfolio leży w tym repo. Instrukcja uruchomienia i publikacji: [DEVELOPMENT.md](DEVELOPMENT.md).</sub>
+<!-- <sub>Kod tej strony-portfolio leży w tym repo. Instrukcja uruchomienia i publikacji: [DEVELOPMENT.md](DEVELOPMENT.md).</sub> -->
