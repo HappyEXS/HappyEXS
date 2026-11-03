@@ -1,16 +1,16 @@
 # Jan Jędrzejewski
 
-**ML Engineer** · Warszawa · otwarty na propozycje
+**Software Engineer / ML Engineer** · Warszawa · otwarty na propozycje
 
 `analiza → implementacja → wdrożenie → utrzymanie`
 
-Magister informatyki PW EiTI; Junior ML Engineer — wdrażam modele od pomysłu po produkcję · Python, Pytorch, XGBoost, FastAPI, Docker
+Magister informatyki PW EiTI; Wdrażam modele od pomysłu po produkcję · Python, Pytorch, XGBoost, FastAPI, Docker
 
 ---
 
 ## O mnie
 
-ML Engineer po studiach informatycznych, zajmuję się wdrażaniem modeli uczenia
+Software Engineer, magister informatyki EiTI PW. W wolnych chwilach zajmuję się wdrażaniem modeli uczenia
 maszynowego jako działających aplikacji — od przygotowania danych, przez trening, po deployment i
 monitoring. Samodzielnie zaprojektowałem i uruchomiłem kilka projektów end-to-end: wycenę samochodów
 (XGBoost + FastAPI), predyktor wyników F1 (symulacja Monte Carlo, dane FastF1) oraz wielousługowy system
